@@ -1,3 +1,4 @@
+<?php global $dbh; ?>
 <?php
 include $_SERVER["DOCUMENT_ROOT"] . "/connection_database.php";
 
